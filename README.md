@@ -7,4 +7,5 @@
 コードの挿入
 ```java
 int = 0;
-```System.out.print(i);
+```java
+System.out.print(i);
